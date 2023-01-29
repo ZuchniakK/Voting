@@ -32,6 +32,7 @@ I show examples that for the same set of voter preferences by modifying the used
 | 5             | 58.6\%    | 61.1\% | 58.3\% | 60.0\%     | 62.7\%  |
 | 25            | 66.1\%    | 69.8\% | 67.8\% | 68.1\%     | 69.7\%  |
 | 55            | 67.7\%    | 71.5\% | 69.6\% | 69.9\%     | 71.1\%  |
+
 Accuracy of classification on MNIST dataset depending on the number of basic
 models in the ensemble system. Ensemble submodels are simple fully-connected deep neural networks containing only two
 hidden layers with 50 neurons. Each model was trained on a small fraction of the training dataset.
