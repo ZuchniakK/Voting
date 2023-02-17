@@ -3,7 +3,7 @@ Implementation of selected voting algorithms with a notebook presenting the appl
 
 ## Intro
 
-As part of my PhD research I analyzed the impact of the decision-fusion mechanism inside ensemble models.
+As part of my [PhD dissertation](https://arxiv.org/abs/2302.07215) I analyzed the impact of the decision-fusion mechanism inside ensemble models.
 Voting algorithms themselves are a very interesting family of algorithms.
 With the same set of voters, we can get different election results depending on the voting algorithm we use.
 
